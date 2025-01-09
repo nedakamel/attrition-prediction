@@ -1,1 +1,3 @@
 # attrition-prediction
+In this  project, i explore a dataset containing information about employees and use that data to train models capable of predicting whether those employees have left the company (attrited) or not. i start by exploring the dataset, analyzing its features, and performing necessary preprocessing steps (such as label encoding and scaling). Then, i build and evaluate implementations of K-Nearest Neighbors (KNN) as well as Random Forest, Bagging, and AdaBoost classifiers. After training and tuning each model, i compare their performance using metrics like accuracy and feature importance to identify the best approach for accurate attrition prediction.
+
